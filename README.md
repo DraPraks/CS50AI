@@ -44,13 +44,3 @@ Contributions are welcome! If you have any improvements or new projects to add, 
 ## License
 
 This project is licensed under the MIT License.
-
----
-
-Feel free to modify this description to better fit your needs!
-
-Source: Conversation with Copilot, 9/2/2024
-(1) GitHub - DraPraks/CS50AI: A collection of AI projects I've made.. https://github.com/DraPraks/CS50AI.
-(2) CS50's Introduction to Artificial Intelligence with Python. https://cs50.harvard.edu/ai/.
-(3) CS50's Introduction to Artificial Intelligence with Python. https://cs50.harvard.edu/ai/2020/.
-(4) Releases · DraPraks/CS50AI · GitHub. https://github.com/DraPraks/CS50AI/releases.
